@@ -73,14 +73,9 @@ unzip is-it-a-project.zip -d ~/.lmstudio/skills/
 
 ```
 
-### Git Submodule (e.g., Claude Code)
+**OR**
 
-Add as a submodule to your project's existing skills directory.
-
-```bash
-git submodule add [https://github.com/kanishk-mehta/skills.git](https://github.com/kanishk-mehta/skills.git)
-
-```
+If your organization uses a platform like **[baioniq](www.baioniq.com)**, share the compressed / ZIP files with your group manager/administrator and they can add install the skill for you
 
 ---
 
