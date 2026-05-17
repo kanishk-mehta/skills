@@ -6,6 +6,37 @@ I tinker with agentic logic the same way I tinker with audio routing or mechanic
 
 ---
 
+## 🧠 Why These Skills Exist
+
+I built these skills as a way to fix the fundamental failure modes I see when applying AI agents—and traditional management frameworks—to product development. 
+
+### #1: The "Project" Trap
+
+> "Good design is as little design as possible." 
+> — Dieter Rams
+
+**The Problem:** The most common failure mode in enterprise software isn't bad code; it's bad framing. We default to treating everything as a "project" with a finite start, middle, and end. This is a trap. Real products are living organisms. If you treat a living product like a finite project, you kill long-term problem ownership, and you end up with abandoned, rotting software the second the "milestone" is hit.
+
+**The Fix:** Before writing a single line of code or assigning a single ticket, you have to diagnose the endeavor. 
+* Use **`is-it-a-project`**. 
+This skill is a ruthless diagnostic tool. It forces you (and your agent) to look at the work and determine if it deserves to be a finite project, or if it requires infinite, ongoing product perseverance. Run this first to establish the right mindset.
+
+### #2: The Signal-to-Noise Problem
+
+> "If everything is important, then nothing is."
+
+**The Problem:** Corporate environments are flooded with low-signal noise. When building a product, everyone wants a say, but very few people actually have the influence or interest that dictates the product's survival. Traditional project management tells you to listen to everyone, which leads to bloated, compromised, "design-by-committee" tech-debt. 
+
+**The Fix:** You need a high-signal filter.
+* Use **`stakeholder-matrix`**.
+This skill acts like a mechanical logic gate for human feedback. Instead of drowning in noise, you use this skill to plot the ecosystem on a strict Influence vs. Interest matrix. It strips away the BS and tells you exactly who you actually need to manage, who you need to keep informed, and who you can safely ignore. 
+
+**Summary**
+
+High-signal communication and long-term ownership matter more than ever in the AI age. These skills are my best effort at condensing a decade of enterprise product leadership into repeatable, mechanical logic blocks. 
+
+---
+
 ## 🛠 The Skills
 
 | Skill | The "Why" |
