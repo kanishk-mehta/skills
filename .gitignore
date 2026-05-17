@@ -1,0 +1,44 @@
+# macOS artifacts
+.DS_Store
+._*
+**/.DS_Store
+**/._*
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Temporary files and caches
+tmp/
+temp/
+*.tmp
+*.bak
+*.backup
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+.env.*
+!venv/.gitkeep
+
+# Zip files (not needed in repo)
+*.zip

@@ -1,0 +1,4 @@
+{
+  "_note": "Source of truth for stakeholder register. Managed by agent — do not set quadrant manually, it is derived from influence + interest scores. Use active:false to retire stakeholders, never delete entries.",
+  "stakeholders": []
+}
