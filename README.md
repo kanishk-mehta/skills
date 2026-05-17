@@ -78,7 +78,7 @@ unzip is-it-a-project.zip -d ~/.lmstudio/skills/
 Add as a submodule to your project's existing skills directory.
 
 ```bash
-git submodule add [https://github.com/YOUR_USERNAME/skills.git](https://github.com/YOUR_USERNAME/skills.git)
+git submodule add [https://github.com/kanishk-mehta/skills.git](https://github.com/kanishk-mehta/skills.git)
 
 ```
 
