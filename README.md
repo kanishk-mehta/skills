@@ -13,7 +13,7 @@ I built these skills as a way to fix the fundamental failure modes I see when ap
 ### #1: The "Project" Trap
 
 > "Good design is as little design as possible." 
-> — Dieter Rams
+> — Dieter Rams, [Ten Principles for Good Design](https://www.amazon.ca/Dieter-Rams-Principles-Good-Design/dp/3791387324)
 
 **The Problem:** The most common failure mode in enterprise software isn't bad code; it's bad framing. We default to treating everything as a "project" with a finite start, middle, and end. This is a trap. Real products are living organisms. If you treat a living product like a finite project, you kill long-term problem ownership, and you end up with abandoned, rotting software the second the "milestone" is hit.
 
@@ -23,7 +23,8 @@ This skill is a ruthless diagnostic tool. It forces you (and your agent) to look
 
 ### #2: The Signal-to-Noise Problem
 
-> "If everything is important, then nothing is."
+> "There is nothing quite so useless as doing with great efficiency something that should not be done at all."
+> — Peter Drucker
 
 **The Problem:** Corporate environments are flooded with low-signal noise. When building a product, everyone wants a say, but very few people actually have the influence or interest that dictates the product's survival. Traditional project management tells you to listen to everyone, which leads to bloated, compromised, "design-by-committee" tech-debt. 
 
