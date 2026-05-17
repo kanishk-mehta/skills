@@ -75,7 +75,7 @@ unzip is-it-a-project.zip -d ~/.lmstudio/skills/
 
 **OR**
 
-If your organization uses a platform like **[baioniq](www.baioniq.com)**, share the compressed / ZIP files with your group manager/administrator and they can add install the skill for you
+If your organization uses a platform like **[baioniq](https://www.baioniq.com)**, share the compressed / ZIP files with your group manager/administrator and they can add install the skill for you
 
 ---
 
