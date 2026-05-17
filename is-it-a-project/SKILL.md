@@ -104,7 +104,7 @@ These three are not independent. You cannot maximise all three. Make your trade-
 Every project affects people beyond yourself. Unidentified stakeholders are one of the most common reasons well-bounded, well-constrained projects fail.
 
 As a next step, identify every person who is affected by or has influence over this project.
-→ *[PLACEHOLDER: Link to stakeholder-matrix skill or GitHub resource — to be added by skill author]*
+→ **[stakeholder-matrix](./stakeholder-matrix/)** | Creates a living, high-signal Stakeholder Register (Influence vs. Interest). Helps track who actually matters in the ecosystem.
 
 ---
 
